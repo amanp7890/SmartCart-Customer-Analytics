@@ -1,0 +1,4 @@
+Cluster,Customers,Income,Age,Total_Spending,Total_Purchases,Recency,Customer_Tenure_Days,Total_Children,NumDealsPurchases,NumWebPurchases,NumCatalogPurchases,NumStorePurchases,NumWebVisitsMonth,Response,Customer_Share_%,Campaign_Response_Rate_%
+0,1045,35248.22,43.01,95.76,5.89,49.37,319.08,1.26,2.09,2.11,0.53,3.25,6.42,0.09,46.7,8.9
+1,611,58573.07,48.16,749.65,17.15,47.23,397.42,1.05,3.58,6.25,3.33,7.58,5.58,0.14,27.3,13.6
+2,580,75019.93,45.65,1373.94,19.69,50.64,370.29,0.28,1.43,5.38,5.8,8.5,3.06,0.27,25.9,27.2

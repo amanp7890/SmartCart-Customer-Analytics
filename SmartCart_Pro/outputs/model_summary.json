@@ -1,0 +1,10 @@
+{
+  "chosen_k": 3,
+  "metrics": {
+    "silhouette": 0.21321538418476552,
+    "davies_bouldin": 1.7595486407404008,
+    "calinski_harabasz": 799.3057448570344,
+    "inertia": 19709.57947507522
+  },
+  "rows_after_quality_checks": 2236
+}
